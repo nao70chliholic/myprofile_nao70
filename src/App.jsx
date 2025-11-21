@@ -69,7 +69,7 @@ export default function App() {
             <div className="avatar-wrap">
               <div className="avatar-glow" />
               <img
-                src="/naonao-avatar.jpeg"
+                src={`${import.meta.env.BASE_URL}naonao-avatar.jpeg`}
                 alt="Naonao PFP"
                 className="avatar"
               />
