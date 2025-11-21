@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&family=Zen+Kaku+Gothic+New:wght@400;700;900&display=swap");
+
+:root {
+  font-family: "Zen Kaku Gothic New", "Noto Sans JP", "Hiragino Sans",
+    "Meiryo", sans-serif;
+  line-height: 1.7;
+  font-weight: 400;
+  color: #4a4a4a;
+  background-color: #f4f4f4;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f4f4;
+}
