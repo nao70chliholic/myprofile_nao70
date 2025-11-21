@@ -204,7 +204,9 @@ export default function App() {
             </div>
             <p className="service-label">商品開発・プロデュース</p>
             <p className="service-text">
-              大手食品メーカー20年、150以上の商品を世に送り出した「生みの親」。開発・マーケ・製造・チーム育成まで全工程を一気通貫でリードします。
+              大手食品メーカー20年、150以上の商品を世に送り出した「生みの親」。
+              <br />
+              開発・マーケ・製造・チーム育成まで全工程を一気通貫でリードします。
               <br />
               <span className="service-highlight">
                 「モノづくり」だけでなく「人づくり（才能開花）」も私のプロデュース領域。
@@ -224,7 +226,9 @@ export default function App() {
             <p className="service-label">コミュニティ運営・設計</p>
             <div className="service-text">
               <p>
-                育休コミュニティ「MIRAIS」、挑戦コミュニティ「Challengers」を運営。大切にしているのは
+                育休コミュニティ「MIRAIS」、挑戦コミュニティ「Challengers」を運営。
+                <br />
+                大切にしているのは
                 <span className="accent">「ひらく・気づく・すすむ」</span>
                 の循環です。
               </p>
@@ -233,7 +237,9 @@ export default function App() {
                 <span className="bold">
                   「ジャズのように即興で重ね合う」
                 </span>
-                働き方を取り入れ、個人の"好き"が連鎖し、自然と未来へ向かえる「やわらかい強さ」のある場をつくります。
+                働き方を取り入れ、個人の"好き"が連鎖し、
+                <br />
+                自然と未来へ向かえる「やわらかい強さ」のある場をつくります。
               </p>
             </div>
           </div>
